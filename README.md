@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.com/KenticoDocs/kontent-docs-integration-tests.svg?branch=master)](https://travis-ci.com/KenticoDocs/kontent-docs-integration-tests)
-[![codebeat badge](https://codebeat.co/badges/8335b5eb-516c-4066-bc0c-27e7fe53508e)](https://codebeat.co/projects/github-com-kenticodocs-kontent-docs-integration-tests-master)
-
 # Kentico Kontent Documentation - Integration Tests
 Integration tests for Kentico Kontent [documentation portal](https://docs.kontent.ai/), which utilizes Kentico Kontent as a source of its data.
 
